@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.exe
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.deps.json
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.dll
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.0\PlayersAndMonsters.pdb
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.dll
+C:\Users\Alex\source\repos\Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.0\PlayersAndMonsters.pdb

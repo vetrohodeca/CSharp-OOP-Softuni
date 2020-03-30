@@ -1,0 +1,22 @@
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.exe
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.deps.json
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.runtimeconfig.json
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.dll
+C:\Users\Alex\source\repos\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class box data.pdb
+C:\Users\Alex\source\repos\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.dll
+C:\Users\Alex\source\repos\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.pdb
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class box data.AssemblyInfo.cs
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.exe
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.deps.json
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.runtimeconfig.json
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.dll
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\bin\Debug\netcoreapp3.0\Class_box_data.pdb
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class_box_data.dll
+C:\Users\Alex\source\repos\C# OOP Softuni\Encapsulation\Class box data\obj\Debug\netcoreapp3.0\Class_box_data.pdb

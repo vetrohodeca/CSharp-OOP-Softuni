@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.exe
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.deps.json
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.runtimeconfig.json
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.dll
+C:\Users\Alex\source\repos\Inheritance\Restaurant\bin\Debug\netcoreapp3.0\Restaurant.pdb
+C:\Users\Alex\source\repos\Inheritance\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Inheritance\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Inheritance\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Inheritance\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.dll
+C:\Users\Alex\source\repos\Inheritance\Restaurant\obj\Debug\netcoreapp3.0\Restaurant.pdb
